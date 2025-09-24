@@ -33,18 +33,18 @@
 
 #### 🤖 AI & 大语言模型 (AI & Large Language Models)
 
-* **[ rag-chatbot ](https://github.com/wushir828/rag-chatbot)** <br/>
-    *一个基于RAG架构的聊天机器人项目，用于学习和实践如何将外部知识库与大语言模型相结合。*
+* **[ Chinese-Poetry-LLM-Finetuning ](https://github.com/wushir828/Chinese-Poetry-LLM-Finetuning)** <br/>
+    *一个基于使用LoRA对开源模型进行微调使其进行模仿创作的项目。*
 
-* **[ ollama-lab ](https://github.com/wushir828/ollama-lab)** <br/>
-    *一个关于Ollama的实验性项目，用于在本地环境中快速部署和测试各类开源大语言模型。*
+* **[ ollama-RAG-Lyrics-QnA-lab ](https://github.com/wushir828/Document-QnA-with-RAG-and-Local-LLM)** <br/>
+    *一个用于在自定义文档上进行问答的检索增强生成系统的实现*
 
-* **[ llm-zoomcamp-learning ](https://github.com/wushir828/llm-zoomcamp-learning)** <br/>
-    *LLM Zoomcamp课程的学习笔记与代码实践，记录了我在大语言模型领域的学习历程。*
+* **[ Movie-Sentiment-Analysis-Scikit-Learn ](https://github.com/wushir828/Movie-Sentiment-Analysis-Scikit-Learn)** <br/>
+    *一个经典的机器学习项目，用于对电影评论进行情感分析，使用Python和Scikit-learn。*
 
 #### 💻 嵌入式Linux系统 & FPGA (Embedded Linux Systems & FPGA DEV)
 
-* **[🧠 基于FPGA的数字示波器与DDS信号发生器](https://github.com/wushir828/ADC-Digital-Oscilloscope)** <br/>
+* **[🧠 基于FPGA的数字示波器与DDS信号发生器](https://github.com/wushir828/FPGA-ADC-oscillograph)** <br/>
     *一个使用 Verilog 实现的高级数字系统，集成了DDS信号源、ADC采集、可配置触发系统和频率计功能。*
   
 * **[🐍 Python虚拟FPGA与IoT数据管道](https://github.com/wushir828/Python-Virtual-FPGA-Lab-Linux-IoT-Data-Pipeline)** <br/>
