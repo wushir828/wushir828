@@ -33,13 +33,13 @@
 
 #### 🤖 AI & 大语言模型 (AI & Large Language Models)
 
-* **[ Chinese-Poetry-LLM-Finetuning ](https://github.com/wushir828/Chinese-Poetry-LLM-Finetuning)** <br/>
+* **[ 基于LoRA的古诗词模型微调 ](https://github.com/wushir828/Chinese-Poetry-LLM-Finetuning)** <br/>
     *一个基于使用LoRA对开源模型进行微调使其进行模仿创作的项目。*
 
-* **[ ollama-RAG-Lyrics-QnA-lab ](https://github.com/wushir828/Document-QnA-with-RAG-and-Local-LLM)** <br/>
+* **[基于本地大模型的RAG文档问答助手](https://github.com/wushir828/Document-QnA-with-RAG-and-Local-LLM)** <br/>
     *一个用于在自定义文档上进行问答的检索增强生成系统的实现*
 
-* **[ Movie-Sentiment-Analysis-Scikit-Learn ](https://github.com/wushir828/Movie-Sentiment-Analysis-Scikit-Learn)** <br/>
+* **[ 基于Scikit-Learn的电影评论情感分析 ](https://github.com/wushir828/Movie-Sentiment-Analysis-Scikit-Learn)** <br/>
     *一个经典的机器学习项目，用于对电影评论进行情感分析，使用Python和Scikit-learn。*
 
 #### 💻 嵌入式Linux系统 & FPGA (Embedded Linux Systems & FPGA DEV)
