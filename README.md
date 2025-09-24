@@ -9,7 +9,7 @@
 
 ---
 
-### 🔗 我的技术主页
+### 🔗 我的技术主页与联系方式
 
 <p align="left">
   <a href="https://huggingface.co/wushir828" target="_blank">
@@ -24,6 +24,9 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=verilog,python,c,cpp,pytorch,tensorflow,git,github,linux,docker,vscode" />
+  </a>
+  <a href="mailto:wushir828@gmail.com">
+    <img src="https://img.shields.io/badge/Email-邮箱-red.svg?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email"/>
   </a>
 </p>
 
